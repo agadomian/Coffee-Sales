@@ -7,4 +7,4 @@
   - top customers
   - sales trends depending on coffee type, size & roast type
   - split by countries
-  - choose period of time that we are interested in
+  - specific period of time that we are interested in
